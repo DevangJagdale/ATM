@@ -6,4 +6,4 @@ This is a ATM project which basically has 2 types of user, one is Admin and the 
 #Things you need to know
 1. Name of txt file is 'aaa.txt'. In this all the data of users will be stored.
 2. Password for Admin is 1234. It is static and can be changed inside main function.
-3.System("cls") is commented out and can be used according to your O.S. available.
+3.System("cls") is commented out and can be used according to your O.S. available on your system.
